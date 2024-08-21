@@ -330,7 +330,7 @@ scholar:
   details_link: Details
 
   query: "@*"
-  group_by: type, year
+  group_by: abbr
   group_order: descending
 
 # Display different badges withs stats for your publications
@@ -355,7 +355,6 @@ filtered_bibtex_keywords:
     bibtex_show,
     blog,
     code,
-    type,
     google_scholar_id,
     html,
     inspirehep_id,
