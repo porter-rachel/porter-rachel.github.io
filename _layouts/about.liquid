@@ -16,7 +16,7 @@ layout: default
 
   <article>
     {% if page.profile %}
-      <div class="profile float-{% if page.profile.align == 'left' %}left{% else %}right{% endif %}" style="margin-top: -.9in;">
+      <div class="profile float-{% if page.profile.align == 'left' %}left{% else %}right{% endif %}">
         {% if page.profile.image %}
           {% assign profile_image_path = page.profile.image | prepend: 'assets/img/' %}
           <style>
@@ -25,6 +25,13 @@ layout: default
               height: 250px; /* Set the height to match the width */
               object-fit: cover; /* Ensures the image covers the box without stretching */
               border-radius: 50%; /* Ensures the image is a perfect circle */
+            }
+
+            @media (min-width: 992px) {
+              /* Applies only on desktop (min-width: 992px) */
+              .profile {
+                margin-top: -.9in;
+              }
             }
           </style>
           {% assign profile_image_class = 'img-fluid z-depth-1' %}
