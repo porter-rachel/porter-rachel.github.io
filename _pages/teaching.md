@@ -19,4 +19,4 @@ nav_order: 6
 [[Syllabus]](/assets/pdf/porter_cv.pdf) [[Sample Slides]](/assets/pdf/porter_cv.pdf)
 
 **POLI 100: Introduction to American Politics** (Spring 2019) \
-[[Syllabus]](/assets/pdf/POLI100_Syllabus.pdf) [[Sample Slides - The Constitution]](/assets/pdf/01_22.pdf)
+[[Syllabus]](/assets/pdf/POLI100_Syllabus.pdf) [[Sample Slides - The Constitution]](/assets/pdf/01_22.pdf) [[Sample Slides - The Bureaucracy]](/assets/pdf/02_28.pdf)
