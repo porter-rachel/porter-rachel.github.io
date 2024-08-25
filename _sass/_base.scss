@@ -760,11 +760,15 @@ footer.sticky-bottom {
 
           &:hover {
             color: var(--global-theme-color);
-            border-color: var(--global-theme-color);
+            border-color: var(--global-text-color);
           }
         }
         a.award.btn {
-          border-color: var(--global-highlight-color);
+          border-color: var(--global-theme-color);
+
+          &:hover {
+            color: var(--global-theme-color);
+            border-color: var(--global-text-color);
         }
       }
 
