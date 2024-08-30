@@ -3,7 +3,6 @@ layout: about
 title: About
 permalink: /
 subtitle: <a href='https://politicalscience.nd.edu/people/rachel-porter/'>Assistant Professor & Computational Social Science Fellow</a>
-<meta name="google-site-verification" content="DSFZw0s6199sWVtfwa9XMqYjrI0yCx9H811Ek8sPf08" />
 
 profile:
   align: right
