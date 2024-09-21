@@ -193,7 +193,7 @@
         <a class="abstract btn btn-sm z-depth-0" role="button">ABSTRACT</a>
       {% endif %}
       {% if entry.arxiv %}
-        {% if entry.html contains '://' %}
+        {% if entry.arxiv contains '://' %}
           <a href="{{ entry.html }}" class="btn btn-sm z-depth-0" role="button">PREPRINT</a>
         {% else %}
           <a href="{{ entry.html | prepend: '/assets/html/' | relative_url }}" class="btn btn-sm z-depth-0" role="button">PREPRINT</a>
