@@ -6,11 +6,13 @@ nav: true
 nav_order: 6
 ---
 
-**POLS 30005: The United States Congress** (Fall 2023, Spring 2024) \
+I will be on research leave for the 2025-2026 academic year.
+
+**POLS 30005: The United States Congress** (Fall 2023, Spring 2024, Spring 2025) \
 This course is a comprehensive introduction to the workings of the contemporary U.S. Congress. We will examine who runs for and who wins seats in Congress, the lawmaking processes in the House and Senate, and the roles of parties and leaders in the two chambers. The purpose of this course is to examine two fundamental questions: (1) what do members of Congress do and why and (2) how do the individual and collective actions of members of Congress explain national policy? We will examine the process of legislating as well as the role of political parties, leaders, and interest groups. Throughout the semester, we will debate the common criticism that “Congress is broken” and consider its effectiveness as an institution. Is policymaking too partisan? Is the public’s disapproval of Congress justified? \
 [[Syllabus]](/assets/pdf/Syllabus_SP24_Congress.pdf) [[Sample Slides - Representation]](/assets/pdf/2_representation.pdf) [[Sample Slides - Parties in Government]](/assets/pdf/8_parties_organization.pdf)
 
-**POLS 40811: Quantitative Political Analysis** (Spring 2023, Spring 2024) \
+**POLS 40811: Quantitative Political Analysis** (Spring 2023, Spring 2024, Spring 2025) \
 This course is designed to achieve three objectives: (1) introduce you to research and quantitative analysis in political science, (2) help you become critical consumers of quantitative analysis used in political and policy-oriented reporting, and (3) give you the ability to answer questions of social scientific importance using data. Throughout the course, we’ll use what we’ve learned to think critically about the use and abuse of data by analysts, reporters, politicians, and policy advocates. As such, not only will you be learning to do your own analysis this semester, but also learning to evaluate such information when it’s presented in the media. The target audience for this course is undergraduate students with interest in the social sciences (not only Political Science), who want to use quantitative approaches to solve important social problems while simultaneously developing marketable, analytical skills. \
 [[Syllabus]](/assets/pdf/Syllabus_SP24.pdf) [[Assignment - Critical Analysis Project]](/assets/pdf/prompt.pdf) [[Assignment - Estimating Turnout]](/assets/pdf/Exercise_TurnoutModified.pdf)
 
