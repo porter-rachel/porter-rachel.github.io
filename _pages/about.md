@@ -15,7 +15,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-Welcome! I am the Notre Dame du Lac Assistant Professor of Political Science at the University of Notre Dame and a Computational Social Science Faculty Fellow with the Lucy Family Institute for Data and Society. Additionally, I co-direct the [Representation and Politics in Legislatures Lab](https://rooneycenter.nd.edu/research/representation-and-politics-in-legislatures-lab/) within the Rooney Center for American Democracy. I am on leave for the 2025-26 academic year.
+Welcome! I am the Notre Dame du Lac Assistant Professor of Political Science at the University of Notre Dame and a Computational Social Science Faculty Fellow with the Lucy Family Institute for Data and Society. Additionally, I co-direct the [Representation and Politics in Legislatures Lab](https://rooneycenter.nd.edu/research/representation-and-politics-in-legislatures-lab/) within the Rooney Center for American Democracy.
 
 My research centers on American political institutions, with a particular focus on legislative politics, elections, and campaign finance. Broadly, I pair original data collections with tools for natural language processing, machine learning, and causal inference to explore how electoral incentives and institutional design impact political representation. 
 
