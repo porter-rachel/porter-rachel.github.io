@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='https://politicalscience.nd.edu/people/rachel-porter/'>Assistant Professor & Computational Social Science Fellow</a>
+subtitle: <a href='https://politicalscience.nd.edu/people/rachel-porter/'>Notre Dame du Lac Assistant Professor & Computational Social Science Fellow</a>
 
 profile:
   align: right
